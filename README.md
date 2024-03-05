@@ -1,0 +1,2 @@
+# KanyeGPT
+Kanye NLP project 
